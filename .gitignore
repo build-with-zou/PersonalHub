@@ -1,5 +1,8 @@
 # 个人数据和本机状态
 **/*.local.md
+introduction/
+reminders/
+worklog/
 private/
 
 # 密钥和环境变量
